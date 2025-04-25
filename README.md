@@ -48,8 +48,7 @@
 🎯 **YOLO** - GitHub Achievement  
 🌟 **Top 10% in AI & ML** - LinkedIn Skill Assessment  
 🎓 **4X Hackathon Finalist** - Including Smart India Hackathon 2024  
-💡 **Open Source Contributor** - Active in Developer Community  
-🚀 **Tech Speaker** - Shared knowledge in tech meetups
+💡 **Open Source Contributor** - Active in Developer Community 
 
 </div>
 
